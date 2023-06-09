@@ -49,7 +49,7 @@ def ser_db(estimated_signal, original_signal):
 
     Returns
     -------
-    int
+    float
         Signal-to-error ratio (in db).
 
     """
